@@ -1,0 +1,1 @@
+"""SynapseNote backend package."""
